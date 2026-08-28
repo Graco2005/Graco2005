@@ -1,14 +1,22 @@
-<img align="right" width="180px" src="./python.gif" alt="Python GIF" />
-
-# Olá, eu sou o Luis Graco!
-
-Sou estudante de **Engenharia de Software / Ciência da Computação** apaixonado por desenvolvimento de software, arquitetura de sistemas e resolução de problemas complexos.
-
-Atualmente focado em cursos de especialização, boas práticas de engenharia (SOLID, POO, Clean Code) e no aprimoramento das minhas habilidades técnicas e lógicas para o desenvolvimento **back-end**.
-
-Sempre em busca de dominar novas tecnologias e acompanhar o avanço da computação. Sinta-se à vontade para explorar meus repositórios e acompanhar minha evolução!
-
-<br clear="right" />
+<table style="border: none !important; border-collapse: collapse !important; border-spacing: 0 !important; width: 100%;">
+  <tr style="border: none !important;">
+    <td valign="top" style="border: none !important; padding-right: 15px;">
+      <h1>Olá, eu sou o Luis Graco!</h1>
+      <p>
+        Sou estudante de <b>Engenharia de Software / Ciência da Computação</b> apaixonado por desenvolvimento de software, arquitetura de sistemas e resolução de problemas complexos.
+      </p>
+      <p>
+        Atualmente focado em cursos de especialização, boas práticas de engenharia (SOLID, POO, Clean Code) e no aprimoramento das minhas habilidades técnicas e lógicas para o desenvolvimento <b>back-end</b>.
+      </p>
+      <p>
+        Sempre em busca de dominar novas tecnologias e acompanhar o avanço da computação. Sinta-se à vontade para explorar meus repositórios e acompanhar minha evolução!
+      </p>
+    </td>
+    <td valign="middle" align="center" style="border: none !important; width: 150px; min-width: 150px;">
+      <img src="./python.gif" width="140px" alt="Python GIF" />
+    </td>
+  </tr>
+</table>
 
 ---
 
