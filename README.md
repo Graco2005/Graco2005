@@ -12,8 +12,8 @@
         Sempre em busca de dominar novas tecnologias e acompanhar o avanço da computação. Sinta-se à vontade para explorar meus repositórios e acompanhar minha evolução!
      </p>
    </td>
-   <td valign="center" align="center" width="20%">
-     <img src="./python.gif" width="180px" alt="Python GIF" />
+   <td valign="center" align="center" width="30%">
+     <img src="./python.gif" width="120px" alt="Python GIF" />
    </td>
  </tr>
 </table>
