@@ -13,7 +13,7 @@
      </p>
    </td>
    <td valign="center" align="center" width="30%">
-     <img src="./python.gif" width="120px" alt="Python GIF" />
+     <img src="./python.gif" width="180px" alt="Python GIF" />
    </td>
  </tr>
 </table>
